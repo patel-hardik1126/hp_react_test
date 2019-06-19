@@ -5,12 +5,12 @@
   "dependencies": {
     "axios": "^0.19.0",
     "bootstrap": "^4.1.0",
+    "express": "^4.17.1",
     "prop-types": "^15.6.1",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
     "react-scripts": "1.1.4",
-    "react-search-box": "^2.0.1",
-    "express": "^4.16.3"
+    "react-search-box": "^2.0.1"
   },
   "scripts": {
     "start:js": "react-scripts start",
