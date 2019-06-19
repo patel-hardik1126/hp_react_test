@@ -13,14 +13,11 @@
     "react-search-box": "^2.0.1"
   },
   "scripts": {
-    "start:js": "react-scripts start",
-    "build:js": "react-scripts build",
-    "start": "node server.js",
-    "build": "npm-run-all build:css build:js",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "build:css": "node-sass-chokidar --include-path ./src --include-path ./node_modules src/ -o src/",
-    "watch:css": "npm run build:css && node-sass-chokidar --include-path ./src --include-path ./node_modules src/ -o src/ --watch --recursive"
+    "postinstall": "react-scripts build"
   },
   "devDependencies": {
     "node-sass-chokidar": "^1.2.2",
