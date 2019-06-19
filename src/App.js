@@ -5,6 +5,7 @@ import "./App.css";
 import Pagination from "./components/Pagination";
 import RestaurantCard from "./components/RestaurantCard";
 import ReactSearchBox from "react-search-box";
+import cityListJson from "./components/cityList";
 
 class App extends Component {
   state = {
@@ -35,19 +36,16 @@ class App extends Component {
           totalEntries
         });
       });
+    const cityList = [];
+    for (let i = 0; i < cityListJson.length; i++) {
+      var cityArray = [];
+      cityArray["key"] = cityArray["value"] = this.replaceDiacritics(
+        cityListJson[i].city
+      );
+      cityList.push(cityArray);
+    }
 
-    axios.get(`./ca.json`).then(response => {
-      const cityList = [];
-      for (let i = 0; i < response.data.length; i++) {
-        var cityArray = [];
-        cityArray["key"] = cityArray["value"] = this.replaceDiacritics(
-          response.data[i].city
-        );
-        cityList.push(cityArray);
-      }
-
-      this.setState({ cityList });
-    });
+    this.setState({ cityList });
   }
   replaceDiacritics(str) {
     var diacritics = [
@@ -162,6 +160,7 @@ class App extends Component {
                 data={cityList}
                 callback={record => console.log(record)}
                 onSelect={this.onSearchPerformed}
+                onEnter={this.onSearchPerformed}
               />
             </div>
 
