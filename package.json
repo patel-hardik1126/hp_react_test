@@ -14,10 +14,10 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build --env=production",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "postinstall": "react-scripts build"
+    "postinstall": "react-scripts build --env=production"
   },
   "devDependencies": {
     "node-sass-chokidar": "^1.2.2",
