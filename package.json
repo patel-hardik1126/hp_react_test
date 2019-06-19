@@ -16,6 +16,7 @@
     "start:js": "react-scripts start",
     "build:js": "react-scripts build",
     "start": "node server.js",
+    "postinstall": "ng build --aot --prod",
     "build": "npm-run-all build:css build:js",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
