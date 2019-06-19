@@ -1,0 +1,743 @@
+[
+  {
+    "city": "Toronto"
+  },
+  {
+    "city": "Montréal"
+  },
+  {
+    "city": "Vancouver"
+  },
+  {
+    "city": "Ottawa"
+  },
+  {
+    "city": "Calgary"
+  },
+  {
+    "city": "Edmonton"
+  },
+  {
+    "city": "Hamilton"
+  },
+  {
+    "city": "Winnipeg"
+  },
+  {
+    "city": "Québec"
+  },
+  {
+    "city": "Oshawa"
+  },
+  {
+    "city": "Kitchener"
+  },
+  {
+    "city": "Halifax"
+  },
+  {
+    "city": "London"
+  },
+  {
+    "city": "Windsor"
+  },
+  {
+    "city": "Victoria"
+  },
+  {
+    "city": "Saskatoon"
+  },
+  {
+    "city": "Barrie"
+  },
+  {
+    "city": "Regina"
+  },
+  {
+    "city": "Sudbury"
+  },
+  {
+    "city": "Abbotsford"
+  },
+  {
+    "city": "Sarnia"
+  },
+  {
+    "city": "Sherbrooke"
+  },
+  {
+    "city": "Saint John’s"
+  },
+  {
+    "city": "Kelowna"
+  },
+  {
+    "city": "Trois-Rivières"
+  },
+  {
+    "city": "Kingston"
+  },
+  {
+    "city": "Thunder Bay"
+  },
+  {
+    "city": "Moncton"
+  },
+  {
+    "city": "Saint John"
+  },
+  {
+    "city": "Nanaimo"
+  },
+  {
+    "city": "Peterborough"
+  },
+  {
+    "city": "Saint-Jérôme"
+  },
+  {
+    "city": "Red Deer"
+  },
+  {
+    "city": "Lethbridge"
+  },
+  {
+    "city": "Kamloops"
+  },
+  {
+    "city": "Prince George"
+  },
+  {
+    "city": "Medicine Hat"
+  },
+  {
+    "city": "Drummondville"
+  },
+  {
+    "city": "Chicoutimi"
+  },
+  {
+    "city": "Fredericton"
+  },
+  {
+    "city": "Chilliwack"
+  },
+  {
+    "city": "North Bay"
+  },
+  {
+    "city": "Shawinigan-Sud"
+  },
+  {
+    "city": "Cornwall"
+  },
+  {
+    "city": "Joliette"
+  },
+  {
+    "city": "Belleville"
+  },
+  {
+    "city": "Charlottetown"
+  },
+  {
+    "city": "Victoriaville"
+  },
+  {
+    "city": "Grande Prairie"
+  },
+  {
+    "city": "Penticton"
+  },
+  {
+    "city": "Sydney"
+  },
+  {
+    "city": "Orillia"
+  },
+  {
+    "city": "Rimouski"
+  },
+  {
+    "city": "Timmins"
+  },
+  {
+    "city": "Prince Albert"
+  },
+  {
+    "city": "Campbell River"
+  },
+  {
+    "city": "Courtenay"
+  },
+  {
+    "city": "Orangeville"
+  },
+  {
+    "city": "Moose Jaw"
+  },
+  {
+    "city": "Brandon"
+  },
+  {
+    "city": "Brockville"
+  },
+  {
+    "city": "Saint-Georges"
+  },
+  {
+    "city": "Sept-Îles"
+  },
+  {
+    "city": "Rouyn-Noranda"
+  },
+  {
+    "city": "Whitehorse"
+  },
+  {
+    "city": "Owen Sound"
+  },
+  {
+    "city": "Fort McMurray"
+  },
+  {
+    "city": "Corner Brook"
+  },
+  {
+    "city": "Val-d’Or"
+  },
+  {
+    "city": "New Glasgow"
+  },
+  {
+    "city": "Terrace"
+  },
+  {
+    "city": "North Battleford"
+  },
+  {
+    "city": "Yellowknife"
+  },
+  {
+    "city": "Fort Saint John"
+  },
+  {
+    "city": "Cranbrook"
+  },
+  {
+    "city": "Edmundston"
+  },
+  {
+    "city": "Rivière-du-Loup"
+  },
+  {
+    "city": "Camrose"
+  },
+  {
+    "city": "Pembroke"
+  },
+  {
+    "city": "Yorkton"
+  },
+  {
+    "city": "Swift Current"
+  },
+  {
+    "city": "Prince Rupert"
+  },
+  {
+    "city": "Williams Lake"
+  },
+  {
+    "city": "Brooks"
+  },
+  {
+    "city": "Quesnel"
+  },
+  {
+    "city": "Thompson"
+  },
+  {
+    "city": "Dolbeau"
+  },
+  {
+    "city": "Powell River"
+  },
+  {
+    "city": "Wetaskiwin"
+  },
+  {
+    "city": "Nelson"
+  },
+  {
+    "city": "Mont-Laurier"
+  },
+  {
+    "city": "Kenora"
+  },
+  {
+    "city": "Dawson Creek"
+  },
+  {
+    "city": "Amos"
+  },
+  {
+    "city": "Baie-Comeau"
+  },
+  {
+    "city": "Hinton"
+  },
+  {
+    "city": "Selkirk"
+  },
+  {
+    "city": "Steinbach"
+  },
+  {
+    "city": "Weyburn"
+  },
+  {
+    "city": "Amherst"
+  },
+  {
+    "city": "Kapuskasing"
+  },
+  {
+    "city": "Dauphin"
+  },
+  {
+    "city": "Dryden"
+  },
+  {
+    "city": "Revelstoke"
+  },
+  {
+    "city": "Happy Valley"
+  },
+  {
+    "city": "Banff"
+  },
+  {
+    "city": "Yarmouth"
+  },
+  {
+    "city": "La Sarre"
+  },
+  {
+    "city": "Parry Sound"
+  },
+  {
+    "city": "Stephenville"
+  },
+  {
+    "city": "Antigonish"
+  },
+  {
+    "city": "Flin Flon"
+  },
+  {
+    "city": "Fort Nelson"
+  },
+  {
+    "city": "Smithers"
+  },
+  {
+    "city": "Iqaluit"
+  },
+  {
+    "city": "Bathurst"
+  },
+  {
+    "city": "The Pas"
+  },
+  {
+    "city": "Norway House"
+  },
+  {
+    "city": "Meadow Lake"
+  },
+  {
+    "city": "Vegreville"
+  },
+  {
+    "city": "Stettler"
+  },
+  {
+    "city": "Peace River"
+  },
+  {
+    "city": "New Liskeard"
+  },
+  {
+    "city": "Hearst"
+  },
+  {
+    "city": "Creston"
+  },
+  {
+    "city": "Marathon"
+  },
+  {
+    "city": "Cochrane"
+  },
+  {
+    "city": "Kindersley"
+  },
+  {
+    "city": "Liverpool"
+  },
+  {
+    "city": "Melville"
+  },
+  {
+    "city": "Channel-Port aux Basques"
+  },
+  {
+    "city": "Deer Lake"
+  },
+  {
+    "city": "Saint-Augustin"
+  },
+  {
+    "city": "Digby"
+  },
+  {
+    "city": "Jasper"
+  },
+  {
+    "city": "Hay River"
+  },
+  {
+    "city": "Windsor"
+  },
+  {
+    "city": "La Ronge"
+  },
+  {
+    "city": "Deer Lake"
+  },
+  {
+    "city": "Gaspé"
+  },
+  {
+    "city": "Atikokan"
+  },
+  {
+    "city": "Gander"
+  },
+  {
+    "city": "Fort Chipewyan"
+  },
+  {
+    "city": "Shelburne"
+  },
+  {
+    "city": "Inuvik"
+  },
+  {
+    "city": "Lac La Biche"
+  },
+  {
+    "city": "Lillooet"
+  },
+  {
+    "city": "Chapleau"
+  },
+  {
+    "city": "Burns Lake"
+  },
+  {
+    "city": "Gimli"
+  },
+  {
+    "city": "Athabasca"
+  },
+  {
+    "city": "Nelson House"
+  },
+  {
+    "city": "Rankin Inlet"
+  },
+  {
+    "city": "Port Hardy"
+  },
+  {
+    "city": "Biggar"
+  },
+  {
+    "city": "Wiarton"
+  },
+  {
+    "city": "Wawa"
+  },
+  {
+    "city": "Hudson Bay"
+  },
+  {
+    "city": "Matagami"
+  },
+  {
+    "city": "Arviat"
+  },
+  {
+    "city": "Attawapiskat"
+  },
+  {
+    "city": "Red Lake"
+  },
+  {
+    "city": "Moosonee"
+  },
+  {
+    "city": "Tofino"
+  },
+  {
+    "city": "Igloolik"
+  },
+  {
+    "city": "Inukjuak"
+  },
+  {
+    "city": "Little Current"
+  },
+  {
+    "city": "Baker Lake"
+  },
+  {
+    "city": "Pond Inlet"
+  },
+  {
+    "city": "Cap-Chat"
+  },
+  {
+    "city": "Cambridge Bay"
+  },
+  {
+    "city": "Thessalon"
+  },
+  {
+    "city": "New Bella Bella"
+  },
+  {
+    "city": "Cobalt"
+  },
+  {
+    "city": "Cape Dorset"
+  },
+  {
+    "city": "Pangnirtung"
+  },
+  {
+    "city": "West Dawson"
+  },
+  {
+    "city": "Kugluktuk"
+  },
+  {
+    "city": "Geraldton"
+  },
+  {
+    "city": "Gillam"
+  },
+  {
+    "city": "Kuujjuaq"
+  },
+  {
+    "city": "Lake Louise"
+  },
+  {
+    "city": "Nipigon"
+  },
+  {
+    "city": "Nain"
+  },
+  {
+    "city": "Gjoa Haven"
+  },
+  {
+    "city": "Fort McPherson"
+  },
+  {
+    "city": "Argentia"
+  },
+  {
+    "city": "Norman Wells"
+  },
+  {
+    "city": "Churchill"
+  },
+  {
+    "city": "Repulse Bay"
+  },
+  {
+    "city": "Tuktoyaktuk"
+  },
+  {
+    "city": "Berens River"
+  },
+  {
+    "city": "Shamattawa"
+  },
+  {
+    "city": "Baddeck"
+  },
+  {
+    "city": "Coral Harbour"
+  },
+  {
+    "city": "La Scie"
+  },
+  {
+    "city": "Watson Lake"
+  },
+  {
+    "city": "Taloyoak"
+  },
+  {
+    "city": "Natashquan"
+  },
+  {
+    "city": "Buchans"
+  },
+  {
+    "city": "Hall Beach"
+  },
+  {
+    "city": "Arctic Bay"
+  },
+  {
+    "city": "Fort Good Hope"
+  },
+  {
+    "city": "Mingan"
+  },
+  {
+    "city": "Kangirsuk"
+  },
+  {
+    "city": "Sandspit"
+  },
+  {
+    "city": "Délįne"
+  },
+  {
+    "city": "Fort Smith"
+  },
+  {
+    "city": "Cartwright"
+  },
+  {
+    "city": "Holman"
+  },
+  {
+    "city": "Lynn Lake"
+  },
+  {
+    "city": "Schefferville"
+  },
+  {
+    "city": "Trout River"
+  },
+  {
+    "city": "Forteau Bay"
+  },
+  {
+    "city": "Fort Resolution"
+  },
+  {
+    "city": "Hopedale"
+  },
+  {
+    "city": "Pukatawagan"
+  },
+  {
+    "city": "Trepassey"
+  },
+  {
+    "city": "Kimmirut"
+  },
+  {
+    "city": "Chesterfield Inlet"
+  },
+  {
+    "city": "Eastmain"
+  },
+  {
+    "city": "Dease Lake"
+  },
+  {
+    "city": "Paulatuk"
+  },
+  {
+    "city": "Fort Simpson"
+  },
+  {
+    "city": "Brochet"
+  },
+  {
+    "city": "Cat Lake"
+  },
+  {
+    "city": "Radisson"
+  },
+  {
+    "city": "Port-Menier"
+  },
+  {
+    "city": "Resolute"
+  },
+  {
+    "city": "Saint Anthony"
+  },
+  {
+    "city": "Port Hope Simpson"
+  },
+  {
+    "city": "Oxford House"
+  },
+  {
+    "city": "Tsiigehtchic"
+  },
+  {
+    "city": "Ivujivik"
+  },
+  {
+    "city": "Stony Rapids"
+  },
+  {
+    "city": "Alert"
+  },
+  {
+    "city": "Fort Severn"
+  },
+  {
+    "city": "Rigolet"
+  },
+  {
+    "city": "Lansdowne House"
+  },
+  {
+    "city": "Salluit"
+  },
+  {
+    "city": "Łutselk’e"
+  },
+  {
+    "city": "Uranium City"
+  },
+  {
+    "city": "Burwash Landing"
+  },
+  {
+    "city": "Grise Fiord"
+  },
+  {
+    "city": "Big Beaverhouse"
+  },
+  {
+    "city": "Island Lake"
+  },
+  {
+    "city": "Ennadai"
+  }
+]
