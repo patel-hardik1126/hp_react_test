@@ -21,5 +21,5 @@
 <li>Implement asynchronous methods to make concurrent requests.</li>
 </ul>
 <p style="font-weight:bold;">5. Please describe yourself using JSON.</p>
-<p><b>Comment:-<b><br/></p>
+<p><b>Comment:-</b><br/></p>
 <p>{"NAME":"HARDIK PATEL","PHONE":"+1(647)542-2611","EMAIL":"PATEL.HARDIK1126@GMAIL.COM","JOB EXPERIENCE":[{"Start Year":"Sep 2017","End Year":"","Organization":"Bell Canada","Designation":"Application Developer"},{"Start Year":"May 2017","End Year":"Sep 2017","Organization":"Scotiabank","Designation":"Sr. Automation Specialist"},{"Start Year":"Aug 2014","End Year":"May 2017","Organization":"Engine Advertising Inc.","Designation":"Sr. Web Developer"},{"Start Year":"Jul 2014","End Year":"Aug 2014 ","Organization":"Allied Technical Services","Designation":"Software Developer"},{"Start Year":"Aug 2011","End Year":"May 2014","Organization":"Helios Solutions","Designation":"Team Leader"},{"Start Year":"Feb 2010","End Year":"July 2011","Organization":"Hidden Brains InfoTech","Designation":"Developer"}],"EDUCATION":[{"Completion Year":2009,"Course":"Bachelor in Information Technology"},{"Completion Year":2005,"Course":"Diploma in Computer Science and Engineering"}],"CERTIFICATION":[{"Completion Year":2019,"Certification Title":"Professional Scrum Master I"}]}</p>
